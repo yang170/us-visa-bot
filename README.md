@@ -17,7 +17,7 @@ npm install
 ## Usage
 
 ```sh
-export USERNAME=''
+export USERNAME = ''
 export PASSWORD = ''
 export SCHEDULE_ID = ''
 export FACILITY_ID = ''
